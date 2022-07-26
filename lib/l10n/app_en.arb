@@ -1,0 +1,42 @@
+{
+    "language" : "English",
+    "@language": {
+        "description": "The language of the content."
+    },
+
+    "driveOffer" : "Drive Offers",
+    "@language": {
+        "description": "Drive Offers."
+    },
+
+    "logout" : "Logout",
+    "@language": {
+        "description": "Logout."
+    }, 
+
+    "recharge" : "Recharge",
+    "@language": {
+        "description": "Recharge."
+    },
+
+    "history" : "History",
+    "@language": {
+        "description": "History."
+    },
+    
+    "profile" : "Profile",
+    "@language": {
+        "description": "Profile."
+    },
+
+    "revealRechargeBalance" : "Reveal Recharge Balance",
+    "@language": {
+        "description": "RevealDriveBalance."
+    },
+
+    "revealDriveBalance" : "Reveal Drive Balance",
+    "@language": {
+        "description": "Revea lDrive Balance."
+    }
+
+}

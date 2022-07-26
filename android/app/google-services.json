@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209567707207",
+    "firebase_url": "https://digital-telecom-170b0-default-rtdb.firebaseio.com",
+    "project_id": "digital-telecom-170b0",
+    "storage_bucket": "digital-telecom-170b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209567707207:android:7c23fbb9e41cffd9088162",
+        "android_client_info": {
+          "package_name": "com.example.recharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209567707207-rf6qtjveu08qvou2su5g3lg4nmv6ba1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVF_ieenorEVJlEwRBMJl1HCLyxr5vUOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209567707207-rf6qtjveu08qvou2su5g3lg4nmv6ba1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
